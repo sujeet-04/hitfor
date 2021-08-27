@@ -102,8 +102,6 @@ lifelines==0.25.3
 llvmlite==0.31.0
 locket==0.2.0
 lxml==4.5.0
-MarkupSafe==1.1.1
-menuinst==1.4.16
 missingno==0.4.2
 mistune==0.8.4
 mkl-fft==1.0.15
